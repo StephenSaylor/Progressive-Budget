@@ -1,16 +1,21 @@
-Progressive Budget
+## Progressive Budget
 
-Description
+## Description
 This app lets a user keep track of their finances over time both online and offline.   
 
-Table of Contents
--Installation -Usage -License -Contributing -Test -Questions
+## Table of Contents
+-[Installation](#installation)
+-[Usage](#usage)
+-[License](#license)
+-[Contributing](#contributing)
+-[Test](#test)
+-[Questions](#questions)
 
-Installation
+## Installation
 npm i, to install all required packages 
 npm start to run the server.
 
-Usage
+## Usage
 MongoDB, Mongoose, Express, and Compression are used to make this app save bandwidth and work offline.
 
 Link to deployed application:
@@ -19,7 +24,7 @@ https://guarded-sands-03006.herokuapp.com/
 
 "Keep your finances guarded with Guarded Sands"
 
-License
+## License
 MIT License: https://opensource.org/licenses/MIT
 
 Copyright 2021 Stephen Saylor
@@ -30,11 +35,11 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Contributing
+## Contributing
 Stephen Saylor
 
-Tests
+## Tests
 N/A
 
-Questions
+## Questions
 For any questions contact me here: anentitymusic@gmail.com
